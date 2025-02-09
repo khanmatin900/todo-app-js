@@ -1,4 +1,4 @@
-console.log( 'Code is Poetry' );function addTask() {
+function addTask() {
   const taskInput = document.getElementById('taskInput');
   const taskList = document.getElementById('taskList');
 
